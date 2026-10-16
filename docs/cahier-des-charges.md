@@ -60,3 +60,17 @@ régulièrement de la documentation technique.
 - Services AWS définitifs.
 - Format et taille maximale des documents.
 - Stratégie d'authentification.
+
+
+## Séance du 16/10/2026 : 
+Durant cette séance j'ai crée : 
+
+- Le plan de réalisation du projet 
+- fait le choix de mon MVP
+- créer le dossier du projet 
+- crée la structure de base du projet (mais vraiment la base des bases quoi)
+- fait la première rédaction de README.md 
+- fait le premier Commit 
+- En gros tout est initiliasié 
+- Je me rassure de la disponibillité de toute la stack .
+- ...
